@@ -5,7 +5,7 @@ const About = () => {
     {
       icon: <GraduationCap className="h-6 w-6" />,
       title: "Education",
-      description: "Final Year CSE Student passionate about technology and innovation",
+      description: "Final Year IT Student passionate about technology and innovation",
     },
     {
       icon: <Code2 className="h-6 w-6" />,
@@ -33,7 +33,7 @@ const About = () => {
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
             Hi! I'm <span className="text-primary font-semibold">Bhanu Vangala</span>, a passionate web developer 
             and AI enthusiast from <span className="font-semibold">Hyderabad, India</span>. Currently pursuing my 
-            final year in Computer Science Engineering, I'm dedicated to creating innovative digital solutions 
+            final year in Information Technology , I'm dedicated to creating innovative digital solutions 
             that make a difference.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed">

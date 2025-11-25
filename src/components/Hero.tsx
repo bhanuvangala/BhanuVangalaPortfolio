@@ -6,7 +6,7 @@ import heroBg from "@/assets/hero-bg.jpg";
 
 const Hero = () => {
   const [displayText, setDisplayText] = useState("");
-  const roles = ["Web Developer", "AI Explorer", "Final Year CSE Student"];
+  const roles = ["Web Developer", "AI Explorer", "Final Year IT Student"];
   const [roleIndex, setRoleIndex] = useState(0);
   const [charIndex, setCharIndex] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
