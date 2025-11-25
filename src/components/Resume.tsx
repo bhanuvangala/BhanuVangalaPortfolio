@@ -6,12 +6,12 @@ const Resume = () => {
   const { toast } = useToast();
 
   const handleDownload = () => {
-    toast({
-      title: "Resume Download",
-      description: "Please upload your resume PDF to enable downloads. Contact the developer to add your resume file.",
-      variant: "default",
-    });
-  };
+  const link = document.createElement("a");
+  link.href = "/resume.pdf";
+  link.download = "Bhanu_Vangala_Resume.pdf";
+  link.click();
+};
+
 
   const contactInfo = [
     { label: "Location", value: "Hyderabad, Telangana, India" },
