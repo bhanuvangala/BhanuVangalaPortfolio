@@ -10,7 +10,7 @@ const Certifications = () => {
       description: "Comprehensive training in generative AI technologies, models, and practical applications in modern software development.",
       skills: ["Generative AI", "LLMs", "AI Integration", "Prompt Engineering"],
       logo: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200&h=200&fit=crop",
-      credentialUrl: "#",
+      credentialUrl: "https://www.guvi.in/share-certificate/16Z18527I4GE732ku9",
     },
     {
       title: "Python Programming Certification",
@@ -19,7 +19,7 @@ const Certifications = () => {
       description: "Advanced Python programming concepts, data structures, algorithms, and best practices for building robust applications.",
       skills: ["Python", "Data Structures", "Algorithms", "Best Practices"],
       logo: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=200&h=200&fit=crop",
-      credentialUrl: "#",
+      credentialUrl: "https://www.coursera.org/account/accomplishments/verify/KHRVVX8NDZEW",
     },
   ];
 
