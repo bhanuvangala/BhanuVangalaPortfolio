@@ -8,17 +8,26 @@ const Projects = () => {
       description: "A modern e-commerce platform for personalized gifts built with React. Features include product browsing, cart management, and responsive design for seamless shopping experience.",
       image: "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=800&h=500&fit=crop",
       tags: ["React", "JavaScript", "E-commerce", "Responsive Design"],
-      liveLink: "https://printyourgifts-2f1ed675.vercel.app",
-      githubLink: "https://github.com/bhanuvangala",
+      liveLink: "https://printyourgifts.in",
+      githubLink: "https://github.com/bhanuvangala/pyg",
     },
     {
       title: "AI Resume Analyser",
       description: "An intelligent application that analyzes resumes using AI to provide insights, suggestions, and matching scores. Helps job seekers optimize their resumes for better opportunities.",
       image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&h=500&fit=crop",
       tags: ["AI", "React", "NLP", "Data Analysis"],
-      liveLink: "https://ai-resume-analyser-1p5hld7kz-vangala-bhanus-projects.vercel.app",
-      githubLink: "https://github.com/bhanuvangala",
+      liveLink: "https://ai-resume-analyser-lake.vercel.app/",
+      githubLink: "https://github.com/bhanuvangala/AI-Resume-Analyser",
     },
+    {
+  title: "Prediction of Hospital Admissions",
+  description: "A JSP-based web application that predicts whether a patient from the emergency department requires hospital admission using data mining classification logic. The system supports hospitals in managing emergency cases, beds, and resources efficiently.",
+  image: "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&h=500&fit=crop",
+  tags: ["Data Mining", "JSP", "Java", "Healthcare Analytics", "Prediction System", "Web Application"],
+  liveLink: "https://prediction-of-hospital-admissions.vercel.app/",
+  githubLink: "https://github.com/bhanuvangala/prediction-of-hospital-admissions",
+},
+
   ];
 
   return (
